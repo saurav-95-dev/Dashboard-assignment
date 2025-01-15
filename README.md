@@ -1,8 +1,15 @@
-Live demo site : https://dashboard-assignment-task.netlify.app/
+## Visit my youtube channel : https://www.youtube.com/@sauravdev4757
+## Follow me on my Twitter : https://x.com/Saurav_dev21
+## My Linkedin : https://www.linkedin.com/in/saurabh-dev-9120aa236/
+## Follow me on my Instagram : https://www.instagram.com/sauravdev20002019/profilecard/?igsh=cnJsaGlqMnZjMm5h
 
-STEPS TO START THE APPLICATION :
-1) Open VS code terminal 
-2) Run the command - npm start
+Design anad UI preview :
+
+#### PROJECT :
+Build a multipage meme-generator react application using react routing 
+
+#### ACKNOWLEDGEMENTS :
+#### DESCRIPTION :
 
 This setup provides a dynamic, user-friendly dashboard application using React and CSS for styling and layout.
 
@@ -13,3 +20,15 @@ Tech stack used :
 -> CSS Flexbox
 
 
+#### TECHNOLOGIES :
+HTML , CSS , Javascript
+
+#### CONCEPTS AND BEST PRACTICES :
+Promises , API Calling , DOM Manipulation , gettingCurrentLocation .
+
+#### USAGE :
+#### LICENSE :
+#### CONTACT :
+You can reach out to me at -> devsaurabh086@gmail.com
+
+#### TRY IT --> https://dashboard-assignment-task.netlify.app/
